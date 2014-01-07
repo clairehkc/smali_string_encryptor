@@ -5,4 +5,4 @@ Encrypts all constant strings in .smali files with a simple Caeser cipher. Meant
 
 To use: <br>
 1) python encryptor.py <br>
-2) run(<path to .smali folder>)
+2) run('path to .smali folder')
